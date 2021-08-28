@@ -17,4 +17,4 @@ Now you will open 2 terminal windows in one window you will go to the code direc
 
 If everything was setup correctly you should be able to test it.
 
-you go check it on my youtube channel: []
+you go check it on my youtube channel: [MY FIRST RASPIBERRY PI PROJECT](https://www.youtube.com/watch?v=ZeqKMSR4VPQ)
