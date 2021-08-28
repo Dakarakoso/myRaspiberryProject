@@ -16,3 +16,5 @@ Here you will have to setup your password. In my case, I created a hidden file w
 Now you will open 2 terminal windows in one window you will go to the code directory and then run the command `python3 main.py`. In the second window you will go to the code directory and run `python3 server.py`
 
 If everything was setup correctly you should be able to test it.
+
+you go check it on my youtube channel: []
